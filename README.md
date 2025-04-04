@@ -25,3 +25,5 @@ See also the [ECA communication strategy](https://github.com/GBIF-Europe/Regiona
 
 ## Regional ECA Hosted Portal (?)
 * Any volunteer nodes to set up a regional Hoisted Portal ...?
+
+## [Glossary with terms and acronyms](https://docs.google.com/spreadsheets/d/16TTR18R9MnF7dFFAb_QuPD1B86QDeyeAmb5P4aReNKg/edit?usp=sharing)
